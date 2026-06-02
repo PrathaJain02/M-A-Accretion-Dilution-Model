@@ -190,6 +190,6 @@ This model helps:
 
 ## 👨‍💼 Author
 
-**Aaditya Sharma**
+**Pratha Jain**
 
 Finance | M&A | Valuation | Financial Modeling | Equity Research
